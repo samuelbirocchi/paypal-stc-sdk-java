@@ -5,9 +5,11 @@ Java SDK for PayPal STC integration
 
 ## Maven
 ```xml
-<groupId>com.samuelbirocchi</groupId>
-    <artifactId>paypal-stc-sdk-java</artifactId>
-<version>1.0</version>
+<dependency>
+    <groupId>com.samuelbirocchi</groupId>
+        <artifactId>paypal-stc-sdk-java</artifactId>
+    <version>1.0</version>
+</dependency>
 ```
 
 ## Usage
