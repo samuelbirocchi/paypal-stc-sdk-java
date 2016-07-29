@@ -3,6 +3,13 @@ Java SDK for PayPal STC integration
 
 [![Build Status](https://travis-ci.org/samuelbirocchi/paypal-stc-sdk-java.svg?branch=master)](https://travis-ci.org/samuelbirocchi/paypal-stc-sdk-java)
 
+## Maven
+```xml
+<groupId>com.samuelbirocchi</groupId>
+    <artifactId>paypal-stc-sdk-java</artifactId>
+<version>1.0</version>
+```
+
 ## Usage
 
 ```java
